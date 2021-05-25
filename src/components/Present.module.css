@@ -1,0 +1,115 @@
+.body {
+  display: grid;
+  grid-template: 60px 60px 60px 70px / 60px 60px 60px 60px;
+  background-color: black;
+}
+
+.Score {
+  padding-right:  100px;
+  background-color: blue;
+  color: pink;
+}
+
+.squareGrey {
+  margin-left: 10px;
+  margin-top: 10px;
+	width: 50px;
+	height: 50px;
+	background: #d0d0d0;
+  text-align: center;
+}
+
+.squareGrey p {
+  color: blue;
+}
+
+.squareGren {
+  margin-left: 10px;
+  margin-top: 10px;
+	width: 50px;
+	height: 50px;
+	background: green;
+  text-align: center;
+}
+
+.squareGren p {
+  color: red;
+}
+
+.squareBlue {
+  margin-left: 10px;
+  margin-top: 10px;
+	width: 50px;
+	height: 50px;
+	background: blue;
+  text-align: center;
+}
+
+.squareBlue p {
+  color: red;
+}
+
+.squareYellow {
+  margin-left: 10px;
+  margin-top: 10px;
+	width: 50px;
+	height: 50px;
+	background: yellow;
+  text-align: center;
+}
+
+.squareYellow p {
+  color: red;
+}
+
+.squarePink {
+  margin-left: 10px;
+  margin-top: 10px;
+	width: 50px;
+	height: 50px;
+	background: pink;
+  text-align: center;
+}
+
+.squarePink p {
+  color: blue;
+}
+
+.squareOrange {
+  margin-left: 10px;
+  margin-top: 10px;
+	width: 50px;
+	height: 50px;
+	background: orange;
+  text-align: center;
+}
+
+.squareOrange p {
+  color: blue;
+}
+
+.squareRed {
+  margin-left: 10px;
+  margin-top: 10px;
+	width: 50px;
+	height: 50px;
+	background: red;
+  text-align: center;
+}
+
+.squareRed p {
+  color: blue;
+}
+
+.squareWhite {
+  margin-left: 10px;
+  margin-top: 10px;
+	width: 50px;
+	height: 50px;
+	background: white;
+  text-align: center;
+}
+
+.squareWhite p {
+  color: blue;
+}
